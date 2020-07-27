@@ -7,3 +7,20 @@
 * The client confirmed the robustness of the model that they suggested using this model monthly to identify and prioritize existing customers and potential customers that would return to the company.
 
 **Customer IDs are modified for privacy concerns**
+
+## Cloning the directory
+```
+$ git clone https://github.com/shivanishimpi/CustomerSegmentation/
+```
+
+## Setting up the environment
+
+```
+$ pip3 install -r requirements.txt
+```
+
+## Running the script files 
+
+```
+$ python3 Script.py
+```
