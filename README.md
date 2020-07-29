@@ -8,18 +8,20 @@
 
 **Customer IDs are modified for privacy concerns**
 
-## Cloning the directory
+## Terminal Execution
+
+#### Cloning the directory
 ```
 $ git clone https://github.com/shivanishimpi/CustomerSegmentation/
 ```
 
-## Setting up the environment
+#### Setting up the environment
 
 ```
 $ pip3 install -r requirements.txt
 ```
 
-## Running the script files 
+#### Running the script files 
 
 ```
 $ python3 Script.py
